@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384171430661",
+    "project_id": "mediken-f0d59",
+    "storage_bucket": "mediken-f0d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384171430661:android:4a05c640f4324697efdd6c",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vLlcE8GJL5FYvdJPzUWRJrmuC_kHSUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
